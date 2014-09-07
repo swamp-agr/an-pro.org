@@ -1,0 +1,9 @@
+_cache/*
+_site/*
+posts/*
+img/posts/*
+site
+*.o
+*.hi
+deploy.sh
+*.zip

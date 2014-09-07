@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"> 
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="RSSicon" viewBox="0 0 32 32">
+<defs>
+<linearGradient x1="0.085" y1="0.085" x2="0.915" y2="0.915" id="RSSg">
+<stop  offset="0.0" stop-color="#808080"/><stop  offset="0.2785" stop-color="#929292"/>
+<stop  offset="0.5" stop-color="#9B9B9B"/><stop  offset="0.5871" stop-color="#919191"/>
+<stop  offset="0.8427" stop-color="#797979"/><stop  offset="1.0" stop-color="#707070"/>
+</linearGradient>
+</defs>
+<rect width="32" height="32" rx="6.875" ry="6.875" x="0"  y="0"  fill="#008000"/>
+<rect width="30.75" height="30.75" rx="5.8598" ry="5.8598" x="0.58598"  y="0.58598"  fill="#FFFFFF"/>
+<circle cx="8.5" cy="23.625" r="3" fill="#008000"/>
+<path d="M20 26.625h-4.25a10.25 10.25 0 0 0 -10.25 -10.25v-4.25a14.5 14.5 0 0 1 14.5 14.5z" fill="#008000"/>
+<path d="M23 26.625A17.5 17.5 0 0 0 5.5 9.125 V 4.75a21.875 21.875 0 0 1 21.875 21.875z" fill="#008000"/>
+</svg>
