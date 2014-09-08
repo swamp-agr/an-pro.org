@@ -10,7 +10,7 @@ BLOG_PATH=""
 rm -f blog.zip
 zip -r blog.zip _site
 # upload zip on host
-scp blog.zip andre@$HOST:"$BLOG_PATH/blog.zip"
+scp blog.zip ${USERNAME}@$HOST:"$BLOG_PATH/blog.zip"
 # extract fresh blog
 ssh ${USERNAME}@${HOST} "cd $BLOG_REMOTE && find . -type f -not -name 'blog.zip' | xargs rm && unzip -o blog.zip && rm blog.zip"
 # setting permissions
