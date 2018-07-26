@@ -22,41 +22,4 @@ Mysql &rarr; T-SQL &rarr; PostgreSQL &rarr; Oracle.
 Спустя полгода открыл для себя [J](http://www.jsoftware.com/). 
 И понял, что не Хаскеллем единым живо функциональное программирование.
 
-
-Curriculum Vitae
-======
-
-December 2013 -- till present
--------------------------------
-* workplace: [NetCracker](http://netcracker.com)
-* position: software developer
-* responsibility: integration & migration development
-* knowledge: 
-    - Java (JAX-WS client)
-    - Oracle SQL Tuning
-
-December 2011 -- December 2013
----------------------------
-
-* workplace: [Petrosoft](http://petrosoft.su)
-* position: software developer
-* responsibility: 
-    - DB administration and development: PostgreSQL, Oracle
-    - development of GIS applications
-* knowledge: SQL, PL/SQL, XSLT, HTML/CSS/Javascript, Perl
-
-July 2011 -- December 2011
-------------------------
-
-* workplace: [Petrosoft](http://petrosoft.su)
-* position: analyst
-* responsibility: interaction with customer, technical documentation writing.
-* knowledge: UML, use-case diagrams
-
-Education
------------
-
-* полное высшее
-* окончил в 2011 году [СПбГУ](http://spbu.ru/), факультет [ПМ-ПУ](www.apmath.spbu.ru), кафедру [КТПА](http://www.apmath.spbu.ru/staa/)
-* специальность: ~~астрофизик~~, математик, системный программист
-* языки: русский, английский (свободное чтение профессиональной литературы)
+В настоящий момент работаю в NetCracker Technologies.
