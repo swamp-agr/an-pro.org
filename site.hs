@@ -46,7 +46,6 @@ main = hakyll $ do
         compile $ do
             posts <- recentFirst =<< loadAll "posts/*"
             let indexCtx' = indexCtx tags posts
-
             getResourceBody
                 >>= applyAsTemplate indexCtx'
                 >>= loadAndApplyTemplate "templates/default.html" indexCtx'
@@ -57,8 +56,8 @@ main = hakyll $ do
     match "templates/*" $ compile templateCompiler
     
     create ["feed.xml"] $ do
-    route idRoute
-    compile $ do
+      route idRoute
+      compile $ do
         let feedCtx = postCtx' `mappend` bodyField "description"
         posts <- fmap (take 10) . recentFirst =<< 
                  loadAllSnapshots "posts/*" "content"
