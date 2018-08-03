@@ -53,6 +53,11 @@ h1 a {
     height: 100%;
 }
 
+img {
+    width: 100%;
+    height: 100%;
+}
+
 
 #panel {
         background-color: rgba(200,200,200,0.6);
