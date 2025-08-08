@@ -1,25 +1,16 @@
-Пара слов о пути программирования
-================================
+About me
+========
 
-Разработчик, идущий длинным и тернистым путём освоения функционального программирования. 
+## Conference talks
 
-Начинал с PHP, завалил собеседование в Oracle без подготовки на позицию `junior C++ developer`, затем перешёл к shell-скриптам и пакету core-utils, освоил XSLT, XML, CSV, клиент-серверное взаимодействие, а чуть позже и базы данных. 
+- FProg SPB (RU). 2019. [Haskell without JS](https://www.youtube.com/watch?v=1Jl05KTDpiQ).
+- FProg SPB (RU). 2021. [Dhall migrations](https://www.youtube.com/watch?v=cp0rVOpnA0k).
 
-Mysql &rarr; T-SQL &rarr; PostgreSQL &rarr; Oracle.
+## CV
 
-На последних двух засиживаюсь до сих пор.
-
-Параллельно с базами коснулся GIS на всех срезах трёхзвенки: 
-
-* база: PostGIS и пакет GDAL для преобразования форматов данных;
-* сервер: Geoserver и краем глаза взглянул на ArcGIS (протоколы WMS, TMS, WMTS; стили SLD) 
-* клиент: OpenLayers, Leaflet, Google API, Yandex API, Nokia Maps API (OVI), Bing Maps API
-
-Затем были Perl, Java.
-Если Java никакого положительного впечатления на меня не произвела, то когда коснулся Perl, впервые почувствовал радость от программирования. 
-Но во время реализации GUI-приложения, используя Perl::Tk, радость ушла.
-Вновь обрёл её, [коснувшись](https://github.com/swamp-agr/sagging) Haskell. 
-Спустя полгода открыл для себя [J](http://www.jsoftware.com/). 
-И понял, что не Хаскеллем единым живо функциональное программирование.
-
-В настоящий момент работаю в NetCracker Technologies.
+- February 2021 - present: Haskell Engineer at Chordify B.V, Utrecht, the Netherlands
+- August 2018 - February 2021: Senior Haskell Engineer at GetShop.TV, Moscow, Russian Federation
+- June 2016 - August 2018: Senior Software Engineer at NetCracker Technologies Corp.
+- December 2013 - June 2016: Software Engineer at NetCracker Technologies Corp.
+- December 2011 - December 2013: Software Developer at Petrosoft LLC
+- July 2011 - December 2011: Analyst at Petrosoft LLC, St. Petersburg, Russian Federation

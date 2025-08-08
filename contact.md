@@ -4,11 +4,9 @@ image: ../img/cat.jpg
 ---
 
 
-Social networks:
-==================
+Contact info
+============
 
-* twitter: [marunarh](https://twitter.com/marunarh)
+* github: [@swamp_agr](https://github.com/swamp-agr)
+* linkedin: [Andrey Prokopenko](https://www.linkedin.com/in/andrey-prokopenko-agr/)
 * telegram: @swamp_agr
-* skype:  marunarh
-* lj: [swamp_agr](http://swamp-agr.livejournal.com)
-* vk: [mr_agr](https://vk.com/mr_agr)
