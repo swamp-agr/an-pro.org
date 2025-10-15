@@ -1,3 +1,7 @@
+---
+image: anpr.jpg
+---
+
 About me
 ========
 
